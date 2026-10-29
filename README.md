@@ -1,45 +1,18 @@
-# Hi, I'm Oğuz Han Uyar 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" alt="Oğuz Han Uyar — backend engineer" width="100%">
+</picture>
 
-**Software Engineering Student · Backend & Full-Stack Developer**
+<br>
 
-I build backend services, SaaS products, and AI-enabled applications, from API design and database modeling to testing, deployment, and mobile distribution.
+| <sub>#</sub> | <sub>selected work</sub> |
+|:--|:--|
+| `01` | **fizyoterapi-saas**<br><sub>Multi-tenant clinic platform — web, mobile, RBAC, subscriptions</sub> |
+| `02` | **bounded-dllm-agent-lab**<br><sub>Agentic runtime with bounded authority and deterministic verification</sub> |
+| `03` | **ShopAI**<br><sub>Commerce discovery monorepo — contracts, API, workers</sub> |
+| `04` | **trionn-clone**<br><sub>Motion and 3D interaction study</sub> |
+| `05` | **fed-edge-moe**<br><sub>Federated inference across heterogeneous edge devices</sub> |
 
-My core stack is **TypeScript, Node.js, Express.js, PostgreSQL, Redis, Docker**, and **React / React Native**. I'm especially interested in building reliable systems and understanding the engineering decisions behind them.
+<br>
 
-### Selected projects
-
-| Project | Engineering focus |
-| --- | --- |
-| **[FizyoFlow](https://github.com/theOguz16/fizyoterapi-saas)** · [Website](https://fizyoflow.com) | Clinic-management SaaS with mobile and web applications, tenant-scoped workflows, role-based access, subscriptions, and release testing. |
-| **[Bounded dLLM Agent Lab](https://github.com/theOguz16/bounded-dllm-agent-lab)** | Provider-independent agentic coding runtime with bounded authority, deterministic verification, and auditable execution. |
-| **[ShopAI](https://github.com/theOguz16/ShopAI)** | TypeScript monorepo for an early-stage commerce discovery platform, with shared contracts, API, background workers, and MCP integration. |
-| **[FedEdgeMoE](https://github.com/theOguz16/fed-edge-moe)** | Research prototype exploring federated expert learning and distributed inference across heterogeneous edge devices. |
-| **[Internet for Agents](https://github.com/theOguz16/InternetForAgents)** | Team project exploring service-oriented agent discovery, A2A communication, and capability contracts. |
-| **[Interactive Frontend Study](https://github.com/theOguz16/trionn-clone)** | Unofficial Next.js / Three.js / GSAP implementation focused on motion, 3D interaction, and visual engineering. |
-
-
-### Additional product case studies
-
-Some product implementations are kept private; these public case studies explain the engineering decisions without exposing source code or credentials.
-
-- **[MailLooper — email automation SaaS](docs/maillooper-case-study.md):** Queued workloads, PostgreSQL-backed campaign flows, SMTP/IMAP integrations, and backend operations.
-- **[Routy — AI-assisted travel planning](docs/routy-case-study.md):** React Native / Expo, Express APIs, PostgreSQL, external travel services, and mobile release workflows.
-
-### Tech stack
-
-- **Backend & data:** TypeScript, JavaScript, Node.js, Express.js, PostgreSQL, MongoDB, Redis, BullMQ, TypeORM, REST APIs
-- **Frontend & mobile:** React, Next.js, React Native, Expo, Vue.js, Three.js, GSAP
-- **AI & systems:** LLM API integration, agent orchestration, structured outputs, output verification, Python, PyTorch
-- **Quality & infrastructure:** Docker, Git, GitHub Actions, Vitest, Playwright, Maestro
-
-### What I'm exploring
-
-- Reliable agentic coding and verification
-- Backend architecture, async workloads, and testability
-- Resource-aware scheduling and heterogeneous edge AI
-
-### Get in touch
-
-I'm open to **backend, full-stack, and software engineering** opportunities.
-
-[**Email**](mailto:oguzhanuyar531@gmail.com) · [**GitHub**](https://github.com/theOguz16) · [**FizyoFlow**](https://fizyoflow.com)
+<sub>[oguzhanuyar531@gmail.com](mailto:oguzhanuyar531@gmail.com) &nbsp;·&nbsp; [fizyoflow.com](https://fizyoflow.com) &nbsp;·&nbsp; [github](https://github.com/theOguz16)</sub>
