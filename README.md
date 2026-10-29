@@ -19,11 +19,11 @@ oguz@theoguz16 ~ $ ls ~/work
 
 | <sub>repo</sub> | <sub>what</sub> |
 |:--|:--|
-| [`fizyoterapi-saas`](https://github.com/theOguz16/fizyoterapi-saas) | multi-tenant clinic platform — web, mobile, RBAC, subscriptions |
-| [`bounded-dllm-agent-lab`](https://github.com/theOguz16/bounded-dllm-agent-lab) | agentic runtime with bounded authority and deterministic verification |
-| [`ShopAI`](https://github.com/theOguz16/ShopAI) | commerce discovery monorepo — contracts, API, workers |
-| [`trionn-clone`](https://github.com/theOguz16/trionn-clone) | motion and 3D interaction study |
-| [`fed-edge-moe`](https://github.com/theOguz16/fed-edge-moe) | federated inference across heterogeneous edge devices |
+| [`fizyoterapi-saas`](https://github.com/theOguz16/fizyoterapi-saas) | multi-tenant clinic SaaS · web + mobile |
+| [`bounded-dllm-agent-lab`](https://github.com/theOguz16/bounded-dllm-agent-lab) | agentic runtime · bounded authority |
+| [`ShopAI`](https://github.com/theOguz16/ShopAI) | commerce discovery monorepo |
+| [`trionn-clone`](https://github.com/theOguz16/trionn-clone) | motion and 3D study |
+| [`fed-edge-moe`](https://github.com/theOguz16/fed-edge-moe) | federated edge inference |
 
 ```console
 oguz@theoguz16 ~ $ cat status.txt
