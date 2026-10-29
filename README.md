@@ -18,6 +18,13 @@ My core stack is **TypeScript, Node.js, Express.js, PostgreSQL, Redis, Docker**,
 | **[Interactive Frontend Study](https://github.com/theOguz16/trionn-clone)** | Unofficial Next.js / Three.js / GSAP implementation focused on motion, 3D interaction, and visual engineering. |
 
 
+### Additional product case studies
+
+Some product implementations are kept private; these public case studies explain the engineering decisions without exposing source code or credentials.
+
+- **[MailLooper — email automation SaaS](docs/maillooper-case-study.md):** Queued workloads, PostgreSQL-backed campaign flows, SMTP/IMAP integrations, and backend operations.
+- **[Routy — AI-assisted travel planning](docs/routy-case-study.md):** React Native / Expo, Express APIs, PostgreSQL, external travel services, and mobile release workflows.
+
 ### Tech stack
 
 - **Backend & data:** TypeScript, JavaScript, Node.js, Express.js, PostgreSQL, MongoDB, Redis, BullMQ, TypeORM, REST APIs
