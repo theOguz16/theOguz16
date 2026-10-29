@@ -17,12 +17,6 @@ My core stack is **TypeScript, Node.js, Express.js, PostgreSQL, Redis, Docker**,
 | **[Internet for Agents](https://github.com/theOguz16/InternetForAgents)** | Team project exploring service-oriented agent discovery, A2A communication, and capability contracts. |
 | **[Interactive Frontend Study](https://github.com/theOguz16/trionn-clone)** | Unofficial Next.js / Three.js / GSAP implementation focused on motion, 3D interaction, and visual engineering. |
 
-### Collaborative contributions
-
-I also contribute to team-owned repositories. These projects belong to their respective maintainers; the links below highlight my merged pull requests.
-
-- **[LearnWordGame](https://github.com/MoonBorn0/LearnWordGame)** — Worked on the Expo / React Native client: application screens, authentication and API service integrations, reusable UI components, and Docker development setup. [5 merged PRs](https://github.com/MoonBorn0/LearnWordGame/pulls?q=is%3Apr+author%3AtheOguz16).
-- **[AIStoryTeller](https://github.com/furkankorkmaz35/AIStoryTeller)** — Contributed to an AI video-generation monorepo using Vue, Express / TypeScript, MongoDB, Redis / BullMQ and Remotion; added full-stack Docker setup. [2 merged PRs](https://github.com/furkankorkmaz35/AIStoryTeller/pulls?q=is%3Apr+author%3AtheOguz16).
 
 ### Tech stack
 
