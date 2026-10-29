@@ -10,7 +10,8 @@ oguz@theoguz16 ~ $ whoami
 oğuz han uyar
 
 oguz@theoguz16 ~ $ cat role.txt
-backend engineer · apis · data models · systems that stay honest
+backend engineer
+API design · data modelling · reliable systems
 ```
 
 ```console
