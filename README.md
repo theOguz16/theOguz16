@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Oğuz Han Uyar — backend engineer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=3">
+  <img src="assets/hero-light.svg?v=3" alt="Oğuz Han Uyar — backend engineer" width="100%">
 </picture>
 
 <br>
